@@ -36,7 +36,7 @@ renderAlbums(){
     return (
         <ScrollView>
          {this.renderAlbums() }
-        </ScrollView>
+        </ScrollView> 
     );
  }
     
